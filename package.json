@@ -3,7 +3,7 @@
 	"version": "0.4.0",
 	"description": "Stylelint shareable config for XO with 2-space indent",
 	"license": "MIT",
-	"repository": "sindresorhus/stylelint-config-xo-space",
+	"repository": "xojs/stylelint-config-xo-space",
 	"author": {
 		"name": "Sindre Sorhus",
 		"email": "sindresorhus@gmail.com",
