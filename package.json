@@ -45,7 +45,7 @@
 		"simple"
 	],
 	"dependencies": {
-		"stylelint-config-xo": "^0.4.1"
+		"stylelint-config-xo": "^0.5.1"
 	},
 	"devDependencies": {
 		"ava": "*",
