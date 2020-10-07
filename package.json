@@ -46,14 +46,14 @@
 		"simple"
 	],
 	"dependencies": {
-		"stylelint-config-xo": "^0.16.0"
+		"stylelint-config-xo": "^0.20.0"
 	},
 	"devDependencies": {
 		"ava": "^2.4.0",
-		"stylelint": "^12.0.0",
-		"xo": "^0.25.3"
+		"stylelint": "^13.7.2",
+		"xo": "^0.33.1"
 	},
 	"peerDependencies": {
-		"stylelint": ">=12"
+		"stylelint": ">=13.7.0"
 	}
 }
