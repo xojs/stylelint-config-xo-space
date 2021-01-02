@@ -1,4 +1,4 @@
-# stylelint-config-xo-space [![Build Status](https://travis-ci.com/xojs/stylelint-config-xo-space.svg?branch=master)](https://travis-ci.com/github/xojs/stylelint-config-xo-space) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
+# stylelint-config-xo-space
 
 > [Stylelint](https://stylelint.io) shareable config for [XO](https://github.com/xojs/xo) with 2-space indent
 
