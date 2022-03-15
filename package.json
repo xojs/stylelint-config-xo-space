@@ -1,6 +1,6 @@
 {
 	"name": "stylelint-config-xo-space",
-	"version": "0.15.1",
+	"version": "0.16.0",
 	"description": "Stylelint shareable config for XO with 2-space indent",
 	"license": "MIT",
 	"repository": "xojs/stylelint-config-xo-space",
