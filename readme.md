@@ -10,7 +10,7 @@ npm install --save-dev stylelint-config-xo-space
 
 ## Usage
 
-Add this to your [Stylelint config](https://stylelint.io/user-guide/configuration/):
+Add this to your [Stylelint config](https://stylelint.io/user-guide/configure):
 
 ```json
 {
